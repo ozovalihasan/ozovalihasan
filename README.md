@@ -29,7 +29,7 @@
       <img src="EAD.webp" width="100%" alt="EAD Project"/>
     </p>
     <p style="display: flex; justify-content: space-around">
-      <a href="https://github.com/ozovalihasan/ead">
+      <a href="https://ozovalihasan.com/ead">
         <img src="https://img.shields.io/badge/Demo-Live-brightgreen?style=for-the-badge" alt="Demo"/>
       </a>
       <a href="https://github.com/ozovalihasan/ead">
@@ -45,7 +45,7 @@
       <img src="whistle.webp" width="100%" alt="Whistle Project"/>
     </p>
     <p style="display: flex; justify-content: space-around">
-      <a href="https://github.com/ozovalihasan/whistle">
+      <a href="https://ozovalihasan.com/whistle">
         <img src="https://img.shields.io/badge/Demo-Live-brightgreen?style=for-the-badge" alt="Demo"/>
       </a>
       <a href="https://github.com/ozovalihasan/whistle">
