@@ -1,4 +1,14 @@
-### Hi there 👋
+<div style="padding-bottom: 10px"align="center">
+
+# Hi there, I'm Hasan 👋
+### Full Stack Web Developer
+
+[![](https://img.shields.io/badge/-ozovalihasan.com-fabd2f?style=for-the-badge&logoColor=fabd2f)](https://ozovalihasan.com)
+[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hasan-ozovali/)
+[![](https://img.shields.io/badge/-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://x.com/ozovalihasan)
+
+</div>
+
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/Rails-informational?logo=ruby&logoColor=fabd2f&color=282828)
@@ -9,22 +19,43 @@
 ![](https://img.shields.io/badge/TailwindCSS-informational?logo=tailwindcss&logoColor=fabd2f&color=282828)
 ![](https://img.shields.io/badge/Vite-informational?logo=vite&logoColor=fabd2f&color=282828)
 
-<p align="center">
-  <a href="https://github.com/ozovalihasan/ozovalihasan">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=ozovalihasan&show_icons=true&theme=gruvbox" alt="ozovalihasan" />
-  </a>
-</p>
+## 🚀 Featured Projects
 
-<p align="center">
-  <a href="https://github.com/ozovalihasan/ead">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ozovalihasan&repo=ead&show_icons=true&theme=gruvbox" />
-  </a>
-</p>
+<div style="display: flex; flex-wrap: wrap; gap: 20px;">
+  <div style="min-width: 250px; flex: 1; max-width: 450px; padding: 10px">
+    <h3 align="center">EAD</h3>
+    <br/>
+    <p align="center">
+      <img src="EAD.webp" width="100%" alt="EAD Project"/>
+    </p>
+    <p style="display: flex; justify-content: space-around">
+      <a href="https://github.com/ozovalihasan/ead">
+        <img src="https://img.shields.io/badge/Demo-Live-brightgreen?style=for-the-badge" alt="Demo"/>
+      </a>
+      <a href="https://github.com/ozovalihasan/ead">
+        <img src="https://img.shields.io/badge/Repo-GitHub-blue?style=for-the-badge&logo=github" alt="Repo"/>
+      </a>
+    </p>
+  </div>
+
+  <div style="min-width: 250px; flex: 1; max-width: 450px; padding: 10px">
+    <h3 align="center">Whistle</h3>
+    <br/>
+    <p align="center">
+      <img src="whistle.webp" width="100%" alt="Whistle Project"/>
+    </p>
+    <p style="display: flex; justify-content: space-around">
+      <a href="https://github.com/ozovalihasan/whistle">
+        <img src="https://img.shields.io/badge/Demo-Live-brightgreen?style=for-the-badge" alt="Demo"/>
+      </a>
+      <a href="https://github.com/ozovalihasan/whistle">
+        <img src="https://img.shields.io/badge/Repo-GitHub-blue?style=for-the-badge&logo=github" alt="Repo"/>
+      </a>
+    </p>
+  </div>
+</div>
 
 
-<p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ozovalihasan" alt="Github Streak Stats">
-</p>
 
 <!--
 **ozovalihasan/ozovalihasan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
