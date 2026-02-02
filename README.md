@@ -20,7 +20,7 @@
 ![](https://img.shields.io/badge/Vite-informational?logo=vite&logoColor=fabd2f&color=282828)
 
 ## 🚀 Featured Projects
-
+![test svg](test.svg)
 <div style="display: flex; flex-wrap: wrap; gap: 20px;">
   <div style="min-width: 250px; flex: 1; max-width: 450px; padding: 10px">
     <h3 align="center">EAD</h3>
